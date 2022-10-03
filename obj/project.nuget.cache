@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k94PD83fWyI+r2/nVKjb6imXP9spR2iqQQPUYewKHq/gE4Z/oFp4U5Q5ovleS9f9AHupifQsJmeJaHdTAbUKQA==",
+  "dgSpecHash": "/xGZ+YzDrUS3Y4Msc2aM7Brqxuy+4ug8f5PL0R9388BlYnlN7r+Cc5+AfIvJ4JzfkX0uslKMzT034xxw9/g2MA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peter\\projetos\\kpt_api\\KPT_back.csproj",
+  "projectFilePath": "C:\\Users\\peter\\projetos\\kpt_api\\kpt_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

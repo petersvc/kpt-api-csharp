@@ -874,9 +874,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\projetos\\kpt_api\\KPT_back.csproj",
-      "projectName": "KPT_back",
-      "projectPath": "C:\\Users\\peter\\projetos\\kpt_api\\KPT_back.csproj",
+      "projectUniqueName": "C:\\Users\\peter\\projetos\\kpt_api\\kpt_api.csproj",
+      "projectName": "kpt_api",
+      "projectPath": "C:\\Users\\peter\\projetos\\kpt_api\\kpt_api.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\peter\\projetos\\kpt_api\\obj\\",
       "projectStyle": "PackageReference",
