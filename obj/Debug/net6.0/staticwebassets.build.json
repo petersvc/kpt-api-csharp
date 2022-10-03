@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Ao6MY94BPRPY1YgOZMATAZlyziv4NWD2DlUAFeS8Tbc=",
-  "Source": "kpt_api",
-  "BasePath": "_content/kpt_api",
+  "Hash": "FeTwFC1+lfs+WrxLQ8b4dAyQJRZe+3M+ziOC+Z/OcTs=",
+  "Source": "kptApi",
+  "BasePath": "_content/kptApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

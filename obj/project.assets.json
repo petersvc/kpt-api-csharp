@@ -874,11 +874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\projetos\\kpt_api\\kpt_api.csproj",
-      "projectName": "kpt_api",
-      "projectPath": "C:\\Users\\peter\\projetos\\kpt_api\\kpt_api.csproj",
+      "projectUniqueName": "C:\\Users\\peter\\projetos\\kptApi\\kptApi.csproj",
+      "projectName": "kptApi",
+      "projectPath": "C:\\Users\\peter\\projetos\\kptApi\\kptApi.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\projetos\\kpt_api\\obj\\",
+      "outputPath": "C:\\Users\\peter\\projetos\\kptApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"

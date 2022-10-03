@@ -1,4 +1,4 @@
 .vscode/
 backup
-appsettings.Development.json
+appsettings.json
 .env

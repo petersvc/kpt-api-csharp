@@ -5,7 +5,7 @@ using KPT_back.Services;
 namespace KPT_back.Controllers;
 
 [Controller]
-[Route("api/[controller]")]
+[Route("[controller]")]
 public class GpusController : ControllerBase
 {
     private readonly MongoDBService _mongoDBService;
